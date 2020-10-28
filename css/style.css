@@ -1,0 +1,19 @@
+.container {
+    padding: 40 60px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 1060px;
+}
+
+.section-article aside {
+    float: right;
+    color: teal;
+    border-left: solid 3px teal;
+    max-width: 300px;
+    margin-left: 30px;
+    padding-left: 20px;
+}
+
+.section-pictures img {
+    display: inline-block;
+}
